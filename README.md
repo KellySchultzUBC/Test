@@ -1,6 +1,6 @@
 # This is my test project 
 
-This repository is for playing with github
+This repository is for playing with github. I'm also exploring branches.
 
 ## About
 This repository is exploratory. 
